@@ -1,6 +1,6 @@
 // package chapter1;
 import java.util.Scanner;
-public class DiscountCalaculator {
+public class DiscountCalculator {
 	public static void main(String [] muthu) {
 		int a;
 		Scanner dc = new Scanner(System.in);
