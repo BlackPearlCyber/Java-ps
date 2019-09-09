@@ -22,10 +22,3 @@ This repository contains Java problem-solving files categorized by day.
 7. [`ReversePattern.md`](./Day2/ReversePattern.md)
 
 ---
-
-> ✅ Typos corrected:  
-> - `Calaculator` → `Calculator`  
-> - `Flyod` → `Floyd`  
->  
-> 📁 You may consider placing each day's files in separate folders like `/Day1`, `/Day2`, etc.
-
