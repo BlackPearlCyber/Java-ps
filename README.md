@@ -21,7 +21,5 @@ This repository contains Java problem-solving files categorized by day.
 6. [`ReversePattern.java`](./Day2/ReversePattern.java)
 7. [`RightAngledTriangle.java`](./Day2/RightAngledTriangle.java)
 8. [`LeftangledTraingle.java`](./Day2/LeftangledTraingle.java)
-
-
-
+9. [`AlphabetTriangle.java`](./Day2/AlphabetTriangle.java)
 ---
