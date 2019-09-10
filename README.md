@@ -22,4 +22,16 @@ This repository contains Java problem-solving files categorized by day.
 7. [`RightAngledTriangle.java`](./Day2/RightAngledTriangle.java)
 8. [`LeftangledTraingle.java`](./Day2/LeftangledTraingle.java)
 9. [`AlphabetTriangle.java`](./Day2/AlphabetTriangle.java)
+
+## 📅 Day 3
+
+1. [`ArrayDemo.java`](./Day3/ArrayDemo.java)  
+2. [`Marks.java`](./Day3/Marks.java)
+
+
+
+
+
+
+
 ---
