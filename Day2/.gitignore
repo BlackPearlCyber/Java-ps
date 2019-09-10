@@ -1,0 +1,3 @@
+# Ignore only .class files in Day1 and Day2
+Day1/*.class
+Day2/*.class
