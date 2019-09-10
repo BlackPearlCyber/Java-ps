@@ -27,7 +27,8 @@ This repository contains Java problem-solving files categorized by day.
 
 1. [`ArrayDemo.java`](./Day3/ArrayDemo.java)  
 2. [`Marks.java`](./Day3/Marks.java)
-
+3. [`MaximumSales.java`](./Day3/MaximumSales.java)
+4. [`MinimumSales.java`](./Day3/MinimumSales.java)
 
 
 
